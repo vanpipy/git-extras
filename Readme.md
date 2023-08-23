@@ -12,6 +12,10 @@ Just getting started? Check out these screencasts:
 
 See [Installation](Installation.md) page.
 
+## Test
+1. `pip install pytest`
+2. `pytest`
+
 ## Commands
 
 Go to [Commands](Commands.md) page for basic usage and examples.
